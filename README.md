@@ -1,5 +1,5 @@
 # django-gitmake
-Custom Django management command for automatically adding new migration files to git.  More times than I would like I, or someone else on the team, has forgotten to add the migration to git causing issues when pushing.  This was created to help avoid that.
+Custom Django management command for automatically adding new migration files to git.  More times than I would like I, or someone else on the team, has forgotten to add the migration to git causing issues when pushing.  This was created to help avoid that.  This version is compatible with Django 1.11.
 
 ## Setup
 
